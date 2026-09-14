@@ -30,6 +30,7 @@ nav:
 
 theme:
   name: material
+  favicon: favicon.png
   features:
     - navigation.tabs
     - navigation.sections
