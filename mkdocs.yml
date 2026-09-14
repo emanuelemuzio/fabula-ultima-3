@@ -1,0 +1,47 @@
+site_name: Fabula Ultima - Vault della Campagna
+site_description: Vault Obsidian della campagna di Fabula Ultima, navigabile online.
+site_author: ""
+site_url: https://emanuelemuzio.github.io/fabula-ultima-3/
+repo_name: Fabula Ultima 3
+repo_url: https://github.com/emanuelemuzio/fabula-ultima-3
+
+# MkDocs richiede che docs_dir sia una cartella figlia del file di configurazione.
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Index: 00 - Index.md
+  - Mondo e ambientazione:
+      - Panoramica del mondo: 01 - Mondo e ambientazione/00 - Panoramica del mondo.md
+      - Regni e nazioni: 01 - Mondo e ambientazione/01 - Regni e nazioni.md
+      - Luoghi chiave e territori: 01 - Mondo e ambientazione/02 - Luoghi chiave e territori.md
+  - Storia e misteri:
+      - Eventi storici: 02 - Storia e misteri/00 - Eventi storici.md
+      - Enigmi e misteri: 02 - Storia e misteri/01 - Enigmi e misteri.md
+  - Minacce e sfide:
+      - Minacce attuali: 03 - Minacce e sfide/00 - Minacce attuali.md
+      - Tecnologie e magia: 03 - Minacce e sfide/01 - Tecnologie e magia.md
+  - Personaggi e gruppo:
+      - Guardiani e prescelto: 04 - Personaggi e gruppo/00 - Guardiani e prescelto.md
+  - Regole della campagna:
+      - Linee guida di gioco: 05 - Regole della campagna/00 - Linee guida di gioco.md
+  - Sessione 0: Sessione 0.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
