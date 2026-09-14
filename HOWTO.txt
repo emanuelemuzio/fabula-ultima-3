@@ -1,0 +1,2 @@
+Sync obsidian -> mkdocs
+robocopy . docs /E /XD .git .obsidian .venv .github site docs /XF mkdocs.yml requirements.txt .gitignore README.md audio_only.py
