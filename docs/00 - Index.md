@@ -1,5 +1,9 @@
 # Index della campagna
 
+## Nome del mondo
+
+- Zetusta
+
 ## Vista d’insieme
 
 - Tono generale: serio, ma con momenti di decompressione e una forte componente emotiva.

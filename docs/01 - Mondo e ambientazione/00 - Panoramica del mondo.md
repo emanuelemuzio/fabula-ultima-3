@@ -1,5 +1,9 @@
 # Panoramica del mondo
 
+## Nome del mondo
+
+- Zetusta
+
 ## Concept generale
 
 Il mondo di questa campagna è un mondo fantastico con una forte componente di leggenda e avventura. Non è iper-tecnologico: la magia è la base della vita quotidiana, mentre la tecnologia appare solo in forma intrecciata e simbolica con la magia.
