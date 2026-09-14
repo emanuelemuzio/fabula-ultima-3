@@ -2,8 +2,6 @@ site_name: Fabula Ultima - Vault della Campagna
 site_description: Vault Obsidian della campagna di Fabula Ultima, navigabile online.
 site_author: ""
 site_url: https://emanuelemuzio.github.io/fabula-ultima-3/
-repo_name: Fabula Ultima 3
-repo_url: https://github.com/emanuelemuzio/fabula-ultima-3
 
 # MkDocs richiede che docs_dir sia una cartella figlia del file di configurazione.
 docs_dir: docs
