@@ -2,6 +2,7 @@
 .venv
 site
 
+*.m4a
 *.mp4
 *.mp3
 
