@@ -1,6 +1,7 @@
 .vscode
 .venv
 site
+music/
 
 *.m4a
 *.mp4
