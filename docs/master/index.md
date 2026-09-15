@@ -20,3 +20,7 @@ Questa pagina è accessibile direttamente all'URL:
 - dettagli della trama non ancora condivisi con i giocatori
 
 Puoi aggiungere qui tutti i documenti del master che vuoi tenere fuori dal menu pubblico.
+
+## Personaggi e poteri
+
+- [Barone Valor Nox](barone-valor-nox.md)

@@ -33,7 +33,8 @@ playlists = [
             "https://www.youtube.com/watch?v=qEzWqUhnbVA",
             "https://www.youtube.com/watch?v=jUQmEiqBuqk",
             "https://www.youtube.com/watch?v=_9s5uvhhSJk",
-            "https://www.youtube.com/watch?v=f717iNkYNLk"
+            "https://www.youtube.com/watch?v=f717iNkYNLk",
+            "https://www.youtube.com/watch?v=gP-vzhxSeqo"
         ]
     },
     {
