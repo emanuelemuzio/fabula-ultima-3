@@ -37,9 +37,6 @@ theme:
 
 plugins:
   - search
-  - exclude:
-      glob:
-        - "master/**"
 
 markdown_extensions:
   - admonition
