@@ -24,7 +24,9 @@ nav:
       - Guardiani e prescelto: 04 - Personaggi e gruppo/00 - Guardiani e prescelto.md
   - Regole della campagna:
       - Linee guida di gioco: 05 - Regole della campagna/00 - Linee guida di gioco.md
-  - Sessione 0: Sessione 0.md
+  - Sessioni:
+      - Indice delle sessioni: Sessioni/index.md
+      - Sessione 0: Sessioni/00 - Sessione 0.md
 
 theme:
   name: material
