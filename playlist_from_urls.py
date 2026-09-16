@@ -34,7 +34,15 @@ playlists = [
             "https://www.youtube.com/watch?v=jUQmEiqBuqk",
             "https://www.youtube.com/watch?v=_9s5uvhhSJk",
             "https://www.youtube.com/watch?v=f717iNkYNLk",
-            "https://www.youtube.com/watch?v=gP-vzhxSeqo"
+            "https://www.youtube.com/watch?v=gP-vzhxSeqo",
+            "https://www.youtube.com/watch?v=Bg3rsQ0yDRI",
+            "https://www.youtube.com/watch?v=lAKIbre6neM",
+            "https://www.youtube.com/watch?v=K-tlIDy7taM",
+            "https://www.youtube.com/watch?v=thhdXw_yN0E",
+            "https://www.youtube.com/watch?v=-2axOLmc0dI",
+            "https://www.youtube.com/watch?v=uJEMDlNXjW0",
+            "https://www.youtube.com/watch?v=NDkrTB1wWeU",
+            "https://www.youtube.com/watch?v=gQe15F2Nmhc"
         ]
     },
     {

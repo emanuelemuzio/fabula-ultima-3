@@ -24,3 +24,4 @@ Puoi aggiungere qui tutti i documenti del master che vuoi tenere fuori dal menu 
 ## Personaggi e poteri
 
 - [Barone Valor Nox](barone-valor-nox.md)
+- [Servitore Bido](servitore-bido.md)
